@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What type of compressor is specified?",
+    "ground_truth": "The specification is for a single-stage, air-cooled, oil-lubricated rotary screw air compressor."
+  },
+  {
+    "question": "What is the required compressor capacity and pressure rating?",
+    "ground_truth": "The compressor shall deliver 227.6 acfm at 125 psi according to ISO 1217 Annex C."
+  },
+  {
+    "question": "What components are included in the compressor package?",
+    "ground_truth": "The compressor package includes an inlet filter, air compression element, drive motor, aftercooler with integral moisture separator, oil cooler, cooling fan, motor starter, microprocessor regulation and control system. All components are mounted on a common base frame and enclosed with a sound attenuating enclosure."
+  },
+  {
+    "question": "What ambient temperature range should the compressor operate in?",
+    "ground_truth": "The compressor package should operate in ambient conditions from 32°F to 115°F."
+  },
+  {
+    "question": "What is the maximum allowed noise level of the compressor?",
+    "ground_truth": "The compressor package shall not exceed 67 dB(A) measured at one meter under free field conditions."
+  },
+  {
+    "question": "Describe the compressor element design.",
+    "ground_truth": "The compression profile uses an asymmetric design with four lobes on the male rotor and six lobes on the female rotor. The male and female rotors have the same diameter."
+  },
+  {
+    "question": "What type of motor is required?",
+    "ground_truth": "The drive motor must be a Totally Enclosed Fan Cooled (TEFC) type and meet NEMA premium efficiency standards."
+  },
+  {
+    "question": "Which manufacturers are approved for the drive motor?",
+    "ground_truth": "Approved manufacturers include Siemens, Lincoln, ABB, TECO Westinghouse, Reliance, Leroy Somer, Toshiba, and Baldor."
+  },
+  {
+    "question": "What type of drive arrangement is used?",
+    "ground_truth": "The drive arrangement shall be a gear-driven design with a fully enclosed drive system."
+  },
+  {
+    "question": "What cooling system does the compressor use?",
+    "ground_truth": "The compressor uses an aluminum air-cooled oil cooler and aftercooler with a radial fan driven by a TEFC motor."
+  },
+  {
+    "question": "What type of moisture separator is included?",
+    "ground_truth": "The compressor is equipped with a labyrinth style moisture separator integrated into the discharge side of the aftercooler."
+  },
+  {
+    "question": "What are the service intervals for the inlet filter?",
+    "ground_truth": "The inlet filter service interval must be at least 4,000 hours."
+  },
+  {
+    "question": "What are the oil separator and oil filter service intervals?",
+    "ground_truth": "The air/oil separator element and oil filter element must have service intervals of at least 8,000 hours."
+  },
+  {
+    "question": "What control system features are provided?",
+    "ground_truth": "The compressor includes an onboard microprocessor controller that controls, monitors, and protects compressor operation. It has a 3.5 inch color display and supports programmable pressure bands."
+  },
+  {
+    "question": "What parameters can the controller monitor?",
+    "ground_truth": "The controller monitors discharge air pressure, element outlet temperature, ambient temperature, compressor status, motor overload status, running hours, loaded hours, and regulator hours."
+  },
+  {
+    "question": "Can the compressor be monitored remotely?",
+    "ground_truth": "The controller supports remote monitoring through a PC via Ethernet and through iPhone, iPad, Android phones, or tablets."
+  },
+  {
+    "question": "How should the compressor be prepared for shipment?",
+    "ground_truth": "The compressor must be packaged on a wooden skid and fully enclosed with a wooden enclosure."
+  },
+  {
+    "question": "Does the compressor require bolting to the floor?",
+    "ground_truth": "No, the compressor must not require bolting to the floor."
+  }
+]
