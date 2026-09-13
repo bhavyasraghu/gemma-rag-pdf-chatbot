@@ -141,9 +141,3 @@ The results are written to:
 ```text
 ragas_eval_results.csv
 ```
-
-## Notes
-
-- `chroma_db/` is generated and ignored by Git.
-- Do not commit API keys, passwords, `.env` files, or confidential PDFs.
-- If `compressor1.pdf` is confidential or belongs to an organization, remove it from the repository before making the repository public. Users can instead place their own PDF files in `data/`.
